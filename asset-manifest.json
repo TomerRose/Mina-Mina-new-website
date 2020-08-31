@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Mina-Mina-new-website/static/css/main.61e7e750.chunk.css",
+    "main.js": "/Mina-Mina-new-website/static/js/main.05bb1483.chunk.js",
+    "main.js.map": "/Mina-Mina-new-website/static/js/main.05bb1483.chunk.js.map",
+    "runtime-main.js": "/Mina-Mina-new-website/static/js/runtime-main.a96e0cf6.js",
+    "runtime-main.js.map": "/Mina-Mina-new-website/static/js/runtime-main.a96e0cf6.js.map",
+    "static/js/2.71b0eaa7.chunk.js": "/Mina-Mina-new-website/static/js/2.71b0eaa7.chunk.js",
+    "static/js/2.71b0eaa7.chunk.js.map": "/Mina-Mina-new-website/static/js/2.71b0eaa7.chunk.js.map",
+    "index.html": "/Mina-Mina-new-website/index.html",
+    "precache-manifest.966224c5d0ca3ca425f0e8b50ad7747d.js": "/Mina-Mina-new-website/precache-manifest.966224c5d0ca3ca425f0e8b50ad7747d.js",
+    "service-worker.js": "/Mina-Mina-new-website/service-worker.js",
+    "static/css/main.61e7e750.chunk.css.map": "/Mina-Mina-new-website/static/css/main.61e7e750.chunk.css.map",
+    "static/js/2.71b0eaa7.chunk.js.LICENSE.txt": "/Mina-Mina-new-website/static/js/2.71b0eaa7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a96e0cf6.js",
+    "static/js/2.71b0eaa7.chunk.js",
+    "static/css/main.61e7e750.chunk.css",
+    "static/js/main.05bb1483.chunk.js"
+  ]
+}
